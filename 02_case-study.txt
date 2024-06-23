@@ -1,0 +1,11 @@
+1. Realistic Planning: In our planning we should put more initial or achievable deadlines right from the start. Sometimes, aiming too high can lead to rushing things and missing important details.
+
+2. Team and Tool Balance: Make sure that our team has the right tools would have prevented us from getting stuck on certain tasks and falling behind schedule.
+
+3. Better Team Communication: Communication is the biggest factor in every aspect of progres, especially in these project. Communication between teams could have been clearer. When everyone knows what's going on and where we stand, it's easier to coordinate and stay on track.
+
+4. Testing Earlier: If we had started testing earlier in the process, we could have caught and fixed issues sooner. It's like catching problems when they're small before they snowball into big headaches.
+
+5. Documenting Everything: Always maintain record of each progress, and document decisions as we go along would have helped us keep track of what's been done and what still needs attention.
+
+6. Staying Flexible: The team should be more adaptable to changes in requirements and challenges that popped up would have helped us adjust our approach and keep moving forward smoothly.
